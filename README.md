@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there i'm James👋
+### Welcome to my Github profile.
 
 <!--
 **KINYENJE/KINYENJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
