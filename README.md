@@ -1,4 +1,4 @@
-## Hi there i'm James👋
+## Hi there i'm James Njenga👋
 ### Welcome to my Github profile.
 
 <!--
